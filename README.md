@@ -4,8 +4,10 @@
   <a href="https://github.com/fuadcode"><img src="https://img.shields.io/github/followers/fuadcode?label=Followers&style=social" alt="GitHub Badge"></a>
   <a href="mailto:fuad@example.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue" alt="Email Badge"></a>
 </p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZkanE5OTZ2c2J0YWhwa2hiYWR5Ym1zdHUwMGlwcHZjdmxuemIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXGFJrd7nbZ1bllTKI/giphy.gif" width="480" height="269" alt="Banner GIF">
+</p>
 
-<iframe src="https://giphy.com/embed/V2ODEDXjhYkYpAFbFM" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/V2ODEDXjhYkYpAFbFM">via GIPHY</a></p>
 
 ## 🚀 About Me
 
