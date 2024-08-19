@@ -5,9 +5,7 @@
   <a href="mailto:fuad@example.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue" alt="Email Badge"></a>
 </p>
 
-<p align="center">
-  <img src="https://jmp.sh/s/6ImClPuAS8VrdB4vVgM8" alt="Banner Image" width="600">
-</p>
+<iframe src="https://giphy.com/embed/V2ODEDXjhYkYpAFbFM" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/V2ODEDXjhYkYpAFbFM">via GIPHY</a></p>
 
 ## 🚀 About Me
 
