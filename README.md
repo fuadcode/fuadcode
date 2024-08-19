@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Your+Banner+Image" alt="Banner Image" width="600">
+  <img src="[https://via.placeholder.com/600x200.png?text=Your+Banner+Image](https://media.istockphoto.com/id/1422787212/photo/c-sharp-programming-language-source-code-example-on-monitor-c-source-code.jpg?s=612x612&w=0&k=20&c=KPKcWSnMeFSd_BzU_A6Ag98qlr8VbErrYKPGshVcENY=)" alt="Banner Image" width="600">
 </p>
 
 ## 🚀 About Me
