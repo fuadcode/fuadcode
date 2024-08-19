@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://clideo.com/editor/1ef5e332-4ead-6ed0-a32c-fbc7f32f3f18/export-result" alt="Banner Image" width="600">
+  <img src="https://jumpshare.com/s/RcEnWHAt1vcDd9e07pVb" alt="Banner Image" width="600">
 </p>
 
 ## 🚀 About Me
