@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://jumpshare.com/s/RcEnWHAt1vcDd9e07pVb" alt="Banner Image" width="600">
+  <img src="https://jmp.sh/s/6ImClPuAS8VrdB4vVgM8" alt="Banner Image" width="600">
 </p>
 
 ## 🚀 About Me
