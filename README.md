@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/your-image.png" alt="Banner Image" width="600">
+  <img src="https://via.placeholder.com/600x200.png?text=Your+Banner+Image" alt="Banner Image" width="600">
 </p>
 
 ## 🚀 About Me
@@ -18,16 +18,18 @@
 
 ## 🛠️ Technologies & Tools
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%2305120F.svg?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%2305120F.svg?style=flat&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=flat&logo=visual%20studio&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-%2305120F.svg?style=flat&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-%2305120F.svg?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=flat&logo=visual%20studio&logoColor=white" alt="Visual Studio">
+</p>
 
 ## 📊 GitHub Stats
 
@@ -44,4 +46,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fuadcode.fuadcode" alt="Visitors">
 </p>
-
