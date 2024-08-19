@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1401158734/photo/c-sharp-programming-language-source-code-example-on-monitor-and-bokeh-background-c-source.jpg?s=612x612&w=0&k=20&c=yFINx_D1eGe43fkus1qp68kn2TJC6fBvPF0uxMTQUsg=" alt="Banner Image" width="600">
+  <img src="https://clideo.com/editor/1ef5e332-4ead-6ed0-a32c-fbc7f32f3f18/export-result" alt="Banner Image" width="600">
 </p>
 
 ## 🚀 About Me
