@@ -5,7 +5,7 @@
   <a href="mailto:fuad@example.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue" alt="Email Badge"></a>
 </p>
 <p align="center">
-  <img src="https://www.canva.com/design/DAGPVGM2Fp4/a2AOTUVRrG4r0ppBEESq5w/watch?utm_content=DAGPVGM2Fp4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" width="1000" height="369" alt="Banner GIF">
+  <img src="https://pouch.jumpshare.com/preview/NOxQsHoHu5QS4xXj0pkh0DCga4WwjTcg-RI50lxmSczpfA4J0eN4dbWIhYM-i5Pn8kUQBHDRpIZtdEV-DPJbftCMWY6cv7kwVOIxI8SbVaY" width="1000" height="369" alt="Banner GIF">
 </p>
 
 
