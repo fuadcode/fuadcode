@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/fuadcode"><img src="https://img.shields.io/github/followers/fuadcode?label=Followers&style=social" alt="GitHub Badge"></a>
-  <a href="mailto:fuad@example.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue" alt="Email Badge"></a>
+  <a href="mailto:fuad@example.com"><img src="[https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue](https://i.ibb.co/kV4tr6YZ/Fuad-Iskandarli-Neon-Developer-Banner.png" alt="Email Badge"></a>
 </p>
 <p align="center">
   <img src="https://github.com/fuadcode/fuadcode/blob/main/unnamed.jpg" width="1000" height="389" alt="Banner GIF">
